@@ -1,5 +1,5 @@
 # design
 
- html-дизайн эксперементы
+ html-дизайн эксперименты
  
  html-design experiments
